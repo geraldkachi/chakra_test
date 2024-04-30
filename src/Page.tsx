@@ -22,7 +22,7 @@ const Page = () => {
                         <Box display='flex' flexDirection="column" alignItems='self-start' position="relative" gap={0} >
                             <Text color="#0466C8">This Month</Text>
 
-                            <Box alignSelf='flex-start' display='absolute' border="" borderBottomWidth={4} h={0} w={8} bottom={0} borderColor='#0466C8' />
+                            <Box alignSelf='flex-start' display='absolute' border="" borderBottomWidth={2} h={0} w={8} bottom={0} borderColor='#0466C8' />
                         </Box>
                     </Box>
                     <Image src='three-dots.svg' />
