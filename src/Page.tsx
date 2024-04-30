@@ -4,7 +4,7 @@ import BottonTabs from './BottonTabs'
 const Page = () => {
     return (
         <>
-            <Box h="100vh" padding={"22px"} backgroundColor="#FCFCFC" mb="40px">
+            <Box h="100vh" padding={"22px"} backgroundColor="#FCFCFC" mb="80px">
                 <Text fontSize='28px' style={{ color: '#001233', fontWeight: '700', lineHeight: '38px', marginTop: '30px' }}>Budget</Text>
 
                 <Box display='flex' alignItems='center' gap="10px" margin="20px 0">
