@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Circular+Std&display=swap');
+
+:root {
+  font-family: 'Circular Std', sans-serif; /* Use the font */
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* backgroundColor: '#FCFCFC' !important; */
+}
