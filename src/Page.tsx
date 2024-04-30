@@ -11,7 +11,7 @@ const Page = () => {
                     <img src="/naira.svg" alt="naira" />
                     <Text fontSize='14px' lineHeight='20.3px' color='#707480'>Monthly Budget</Text>
                 </Box>
-                <Box display='flex' alignItems='center' gap="10px" marginTop="20px" bg="white" p="14px" borderRadius="10px" shadow="2px 5px 3px" boxShadow="0px" >
+                <Box display='flex' alignItems='center' gap="10px" marginTop="20px" bg="white" p="14px" borderRadius="10px" boxShadow='1px 1px 1px grey' >
                     <Text fontSize="28px" fontWeight="700" lineHeight="36px">₦120,000</Text>
                 </Box>
 
